@@ -1,0 +1,53 @@
+.section{
+    width: 550px;
+    height: 500px;
+    background-color: hsl(120, 100%, 25%);
+    padding: 100px;
+    display: flex;
+    margin:6% 31%;
+   
+}
+
+.container{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+    margin-right: 80px;
+}
+body{
+    background-color: hsl(120, 100%, 25%);
+}
+.button1{
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: rgb(68, 170, 243);
+    border-radius: 30px;
+}
+.button2{
+    background-color: rgb(89, 5, 5);
+    width:100px;
+    height: 30px;
+    color: white;
+    border-radius: 30px;
+
+}
+.button3{
+    background-color: rgb(6, 153, 6);
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+}
+button{
+    background-color:  rgb(68, 170, 243);
+    border-radius: 30px;
+    color: white;
+    height: 30px;
+    width: 80px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
